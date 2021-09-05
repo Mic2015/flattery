@@ -1,0 +1,30 @@
+Voici la traduction de l'installation du plugin.
+
+# flattery
+Plugin Sketchup pour le dépliage ou l'aplatissement des modèles - Fonctionne dans Sketchup 2016 et 2017
+
+La source originale et l'auteur de ce plugin se trouvent sur http://www.pumpkinpirate.info/flattery/. Mais la version là-haut ne fonctionne pas avec la dernière version de sketchup.
+Je n'ai pas pu contacter l'auteur d'origine concernant les correctifs ou les mises à jour de ce plugin, j'ai donc fait les correctifs moi-même et les ai mis ici pour toute personne toujours intéressée.
+
+J'ai testé cela sur une machine Windows avec Sketchup 2016 et cela semble fonctionner correctement. Je ne donne aucune garantie sur son exactitude, utilisez à vos risques et périls.
+
+**Installation**
+Pour installer Flattery, copiez le fichier « flattery.rb » et le dossier « flattery » dans le dossier des plugins SketchUp. Sous Windows, ce dossier se trouve à
+
+C:\Users\\***votre nom d'utilisateur***\\AppData\Roaming\SketchUp\SketchUp 2016\SketchUp\Plugins
+
+Redémarrez Sketchup et activez la flatterie en allant dans "Fenêtre -> Préférence -> Extensions" et vérifiez le plugin de flatterie. Vous devriez maintenant voir la barre d'outils de flatterie sur le sketup.
+
+
+
+
+**Plus d'informations**
+Pour plus d'informations/d'aide, veuillez visiter le site Web d'origine ou la page du plug-in sketchup, tous deux répertoriés ci-dessous.
+
+* [http://www.pumpkinpirate.info/flattery/](http://www.pumpkinpirate.info/flattery/)
+* [http://sketchupplugins.com/plugins/flattery/](http://sketchupplugins.com/plugins/flattery/) 
+
+le site ou l'on peut trouver le plugin modifié pour la version 2016 (et 2017):
+https://github.com/skotekar/flattery
+
+Note du traducteur: le lien vers pumpkinpirate ne fontionne plus
